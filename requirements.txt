@@ -1,0 +1,7 @@
+numpy>=1.21.0
+matplotlib>=3.5.0
+scipy>=1.7.0
+LightPipes>=2.1.0
+pillow>=8.3.0
+jupyter>=1.0.0
+ipywidgets>=7.6.0 
